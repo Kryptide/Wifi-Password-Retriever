@@ -1,7 +1,7 @@
 # Wifi Password Retriever
 This BATCH file uses a powershell command to retrieve relevent information about each previously connected wifi networks.
 This information includes Wifi Network Profile Information, Connectivity Settings, Security Settings, and Cost Settings. 
-# Example Data:
+Below is an example output.
 
 Profile <SSID> on interface Wi-Fi: 
 ======================================================================= 
