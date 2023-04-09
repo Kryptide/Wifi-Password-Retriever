@@ -44,3 +44,7 @@ Cost settings
     Over Data Limit        : No
     Roaming                : No
     Cost Source            : Default
+
+Output File:
+This file will be saved in the same directory as the BATCH file and will be named "Wifi_Passwords.txt"
+You can change the name of the output file by editing it in the powershell script.
